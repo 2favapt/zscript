@@ -4,6 +4,8 @@ https://hackviser.com/tactics/pentesting
 
 https://www.hackingarticles.in/penetration-testing/
 
+https://screetsec.com/blog/offensive-powershell-for-red-teamer-with-defense-evastion-techniques
+
 Pentesting-Exploitation Programs, Commands, Protocols, Network / Ports.
 
 # Pentesting-Exploitation
